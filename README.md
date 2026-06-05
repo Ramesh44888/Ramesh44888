@@ -7,10 +7,6 @@
   <br/><br/>
 
   <img src="https://img.shields.io/badge/Java%20Full%20Stack-Developer-orange?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-%2300b300?style=for-the-badge&logo=checkmarx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fresher-2025%20Graduate-blue?style=for-the-badge&logo=academia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Based%20in-India%20🇮🇳-darkgreen?style=for-the-badge" />
-
   <br/><br/>
 
   <img src="https://komarev.com/ghpvc/?username=Ramesh44888&label=Profile+Views&color=F7A825&style=flat-square" />
@@ -75,14 +71,6 @@ Hi, I'm **Ramesh**, an aspiring **Java Full Stack Developer** passionate about b
 
 ---
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ramesh44888&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramesh44888&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Ramesh44888&theme=tokyonight&hide_border=true" />
