@@ -4,8 +4,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java%20Full%20Stack-Developer-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-India-blue?style=for-the-badge" />
 </p>
 
 ---
@@ -78,6 +76,7 @@ Hi, I'm **Ramesh**, an aspiring **Java Full Stack Developer** passionate about b
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Ramesh44888&theme=tokyonight&hide_border=true" />
 </p>
+https://github-readme-stats.vercel.app/api?username=Ramesh44888&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true
 
 ---
 
@@ -97,10 +96,3 @@ Hi, I'm **Ramesh**, an aspiring **Java Full Stack Developer** passionate about b
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ramesh44888&label=Profile+Views&color=orange&style=flat" />
-</p>
-
-<p align="center">
-  <b>⭐ If you find my work helpful, consider starring my repositories! ⭐</b>
-</p>
