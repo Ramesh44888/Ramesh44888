@@ -9,19 +9,34 @@
 </p>
 
 ---
+# 🙋‍♂️ About Me
 
-## 🙋‍♂️ About Me
+Hi, I'm **Ramesh**, an aspiring **Java Full Stack Developer** passionate about building scalable and user-friendly web applications.
 
-> *"I am a passionate Java Full Stack Developer who loves building real-world applications that solve meaningful problems. I thrive on writing clean, efficient code and constantly push myself to grow as a developer."*
+* 🎓 Completed training in **Java Full Stack Development**
+* 💻 Skilled in **Java, Spring Boot, React.js, MySQL, MongoDB, HTML, CSS & JavaScript**
+* 🚀 Experienced in developing **REST APIs**, backend services, and responsive frontend applications
+* 🔥 Strong interest in **Backend Development** using Java and Spring Boot
+* 🌱 Currently learning **Microservices, Spring Security, Docker, and Advanced React**
+* 🎯 Actively seeking opportunities as a **Java Full Stack Developer**
+* 🤝 Open to collaboration, open-source contributions, and continuous learning
+* 💡 Passionate about writing clean, maintainable, and efficient code
 
-- 🎓 Completed **Java Full Stack Development** course — covering Java, Spring Boot, React, MySQL & MongoDB
-- 💻 I design and develop **end-to-end web applications** — from REST APIs to responsive frontends
-- 🔥 Passionate about **Backend Development** with Java & Spring Boot
-- 🌱 Currently deepening my knowledge in **Microservices, Spring Security & Advanced React**
-- 🎯 My goal: Land my **first Full Stack Developer role** and grow into a skilled engineer
-- 🤝 Always open to **collaborating on projects, open source contributions & learning together**
-- 💡 I believe: *Clean code today = fewer headaches tomorrow* 😄
-- 📍 Based in **India** | Available for **Remote & On-site** opportunities
+### 🚀 What I Do
+
+✔️ Build Full Stack Web Applications
+✔️ Develop RESTful APIs with Spring Boot
+✔️ Design Responsive User Interfaces with React
+✔️ Work with SQL & NoSQL Databases
+✔️ Learn and explore modern development technologies
+
+### 📫 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/ramesh-v-89a9442b4?utm_source=share_via&utm_content=profile&utm_medium=member_android
+* Email: rameshv02003@gmail.com
+* GitHub: https://github.com/Ramesh44888
+
+> "Continuous learning and consistent effort are the keys to becoming a great software engineer."
 
 ---
 
