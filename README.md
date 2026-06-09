@@ -11,71 +11,38 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-<table>
-<tr>
-<td valign="top" width="55%">
+### 👋 Hello, I'm Ramesh V
 
-### 👋 Hello World, I'm Ramesh V!
+🚀 **Aspiring Java Full Stack Developer** from India 🇮🇳
 
-> 🚀 *Aspiring Java Full Stack Developer from India 🇮🇳*
+🎓 **B.Sc Computer Science** — Government Arts & Science College (2023)
+💻 **Specialization** — Java Full Stack Development
+📍 **Location** — India
+📧 **Email** — [rameshv02003@gmail.com](mailto:rameshv02003@gmail.com)
 
-<br>
+### 💡 Professional Summary
 
-🎓 &nbsp; **B.Sc Computer Science** — Govt Arts & Science College *(2023)*
-💼 &nbsp; **Role** — Java Full Stack Developer
-📍 &nbsp; **Location** — India 🇮🇳
-📧 &nbsp; **Email** — rameshv02003@gmail.com
-🔥 &nbsp; **Passion** — Backend Dev with Java & Spring Boot
+I am a passionate Java Full Stack Developer with a strong interest in building modern web applications. I enjoy developing scalable backend systems using Java and Spring Boot while creating responsive and user-friendly interfaces with React.js. I continuously improve my skills by working on projects, learning new technologies, and exploring industry best practices.
 
-<br>
+### ⚡ What I Do
 
-**⚡ Quick Facts:**
+* ☕ Develop backend applications using Java and Spring Boot
+* 🔌 Build RESTful APIs and database-driven applications
+* ⚛️ Create responsive frontends with React.js
+* 🗄️ Work with MySQL and MongoDB databases
+* 🌱 Currently learning Microservices, Docker, and Cloud concepts
+* 🤝 Open to internships, collaborations, and open-source contributions
 
-- 🏗️ Building scalable full stack web apps
-- 🔌 Crafting clean REST APIs with Spring Boot
-- ⚛️ Designing responsive UIs with React.js
-- 🗄️ Comfortable with MySQL & MongoDB
-- 🌱 Currently exploring Microservices & Docker
-- 🤝 Open to collaborations & open-source
-- ☕ I debug with coffee & patience
+### 🎯 Career Goal
 
-<br>
-## 🎓 Education
+My goal is to become a skilled Software Engineer by continuously learning, building real-world projects, and contributing to impactful software solutions.
 
-<div align="center">
+> *"Success in software development comes from continuous learning, consistency, and solving real-world problems."*
 
-| 🎓 Degree | 🏛️ Institution | 📅 Year | 📊 Score |
-|-----------|----------------|---------|----------|
-| B.Sc Computer Science | Government Arts and Science College | 2023 | 77% 🎯 |
-| Java Full Stack Development | Training Program | 2024–2025 | Completed ✅ |
 
-</div>
 
----
-
-> *"Continuous learning and consistent effort are the keys to becoming a great software engineer."*
-
-</td>
-<td valign="top" width="45%" align="center">
-
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="340" alt="Coding GIF"/>
-
-<br><br>
-
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/-React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-</td>
-</tr>
-</table>
-
----
 
 ## 🛠️ Tech Stack
 
