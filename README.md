@@ -42,6 +42,18 @@
 - ☕ I debug with coffee & patience
 
 <br>
+## 🎓 Education
+
+<div align="center">
+
+| 🎓 Degree | 🏛️ Institution | 📅 Year | 📊 Score |
+|-----------|----------------|---------|----------|
+| B.Sc Computer Science | Government Arts and Science College | 2023 | 77% 🎯 |
+| Java Full Stack Development | Training Program | 2024–2025 | Completed ✅ |
+
+</div>
+
+---
 
 > *"Continuous learning and consistent effort are the keys to becoming a great software engineer."*
 
@@ -133,15 +145,6 @@
 
 ---
 
-## 🏆 Trophy Wall
-
-<div align="center">
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Ramesh44888&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/Ramesh44888)
-
-</div>
-
----
 
 ## 💼 What I Do
 
@@ -170,20 +173,6 @@
 ☁️  Cloud Basics      → AWS fundamentals, Deployment
 ```
 
----
-
-## 🎓 Education
-
-<div align="center">
-
-| 🎓 Degree | 🏛️ Institution | 📅 Year | 📊 Score |
-|-----------|----------------|---------|----------|
-| B.Sc Computer Science | Government Arts and Science College | 2023 | 77% 🎯 |
-| Java Full Stack Development | Training Program | 2024–2025 | Completed ✅ |
-
-</div>
-
----
 
 ## 🤝 Connect With Me
 
