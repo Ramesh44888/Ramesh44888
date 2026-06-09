@@ -130,6 +130,8 @@
 
 </div>
 
+---
+
 ## 🔥 Streak Stats
 
 <div align="center">
