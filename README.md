@@ -34,6 +34,16 @@
 * 🚀 Actively seeking opportunities to grow as a Software Engineer
 * ⚡ Fun Fact: Coffee ☕ + Clean Code = Productive Day 🚀
 ---
+## 🌱 Currently Learning
+
+☕ Java               → OOP, Collections, Exception Handling
+🌱 Spring Boot        → REST APIs, JPA, Hibernate
+🗄️ MySQL             → Database Design, SQL Queries
+⚛️ React.js          → Components, Hooks, State Management
+🔧 Git & GitHub      → Version Control, Collaboration
+📚 Data Structures   → Arrays, Linked Lists, Searching & Sorting
+
+
 ## 💼 What I Do
 
 <div align="center">
@@ -45,26 +55,10 @@
 | 🎨 Frontend Development | Develop responsive and interactive UIs with React.js |
 | 🗄️ Database Management | Work with MySQL and MongoDB databases |
 | 🔒 Application Security | Implement JWT-based authentication and authorization |
-| 🐳 DevOps Basics | Containerize applications using Docker |
-| ☁️ Cloud Deployment | Deploy applications on AWS cloud services |
 
 </div>
 
 ---
-
-## 🌱 Currently Learning
-
-```text
-☕ Java               → OOP, Collections, Exception Handling
-🌱 Spring Boot        → REST APIs, JPA, Hibernate
-🗄️ MySQL             → Database Design, SQL Queries
-⚛️ React.js          → Components, Hooks, State Management
-🔧 Git & GitHub      → Version Control, Collaboration
-📚 Data Structures   → Arrays, Linked Lists, Searching & Sorting
-```
-
-
-
 
 ## 🛠️ Tech Stack
 
