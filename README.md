@@ -15,14 +15,6 @@
 
 ---
 
-## 🧑‍💻 About Me
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=500&color=39FF14&center=true&vCenter=true&width=600&lines=ramesh%40dev%3A~%24+whoami;%3E+Java+Full+Stack+Developer...;ramesh%40dev%3A~%24+cat+profile.json;%3E+Loading+profile..." alt="terminal typing"/>
-</div>
-
-<br/>
-
 
 ## 🧑‍💻 About Me
 
