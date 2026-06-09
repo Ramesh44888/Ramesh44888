@@ -114,15 +114,16 @@
 
 ---
 
-## 🤝 Connect With Me
+## 📬 Contact Information
 
-<div align="center">
+📧 **Email:** [rameshv02003@gmail.com](mailto:rameshv02003@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ramesh%20V-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramesh-v-89a9442b4)
-[![Gmail](https://img.shields.io/badge/Gmail-rameshv02003-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rameshv02003@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Ramesh44888-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ramesh44888)
+💼 **LinkedIn:** https://www.linkedin.com/in/ramesh-v-89a9442b4
 
-</div>
+🐙 **GitHub:** https://github.com/Ramesh44888
+
+📍 **Location:** Tamil Nadu, India
+
 
 ---
 
