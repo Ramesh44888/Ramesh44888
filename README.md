@@ -14,78 +14,18 @@
 </div>
 
 ---
+## 🎓 Education
 
-## 🧑‍💻 About Me
+<div align="center">
 
-<table width="100%">
-<tr>
-<td width="58%" valign="top">
+| 🎓 Degree | 🏛️ Institution | 📅 Year | 📊 Score |
+|:---------:|:--------------:|:-------:|:--------:|
+| B.Sc Computer Science | Government Arts and Science College | 2023 | 77% 🎯 |
+| Java Full Stack Development | Training Program | 2024–2025 | Completed ✅ |
 
-<h3>👋 Hello World, I'm Ramesh V!</h3>
+</div>
 
-```yaml
-Name     : Ramesh V
-Role     : Java Full Stack Developer
-Location : India 🇮🇳
-Email    : rameshv02003@gmail.com
-Degree   : B.Sc Computer Science (2023)
-College  : Govt Arts & Science College
-Score    : 77%
-Status   : Open to Opportunities ✅
-```
 
-<br/>
-
-**🚀 What I Bring to the Table:**
-
-```
-☕ Java & Spring Boot     → REST APIs, Backend Services
-⚛️  React.js              → Responsive UIs, SPA
-🗄️  MySQL & MongoDB        → SQL + NoSQL Databases
-🔐 Spring Security        → JWT, Auth & Authorization
-🐳 Docker                 → Containers & Deployment
-🧩 Hibernate / JPA        → ORM & Data Persistence
-```
-
-<br/>
-
-**🎯 Career Goal:**
-
-> Become a skilled Software Engineer by building
-> real-world projects & contributing to impactful
-> software solutions. 💡
-
-</td>
-<td width="42%" valign="top" align="center">
-
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="320" alt="Coding"/>
-
-<br/><br/>
-
-**⚡ Currently Working On:**
-
-![Microservices](https://img.shields.io/badge/Microservices-Learning-70a5fd?style=flat-square)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-Learning-6DB33F?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-Learning-2496ED?style=flat-square)
-![AWS](https://img.shields.io/badge/AWS-Exploring-FF9900?style=flat-square)
-
-<br/>
-
-**💬 Fun Fact:**
-
-```java
-while (!succeed) {
-  drinkCoffee();
-  tryAgain();
-}
-// Result: Great Engineer 🚀
-```
-
-</td>
-</tr>
-</table>
-
----
 
 ## 🛠️ Tech Stack
 
@@ -124,6 +64,7 @@ while (!succeed) {
 
 ---
 
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -159,15 +100,6 @@ while (!succeed) {
 
 ---
 
-## 🏆 Trophy Wall
-
-<div align="center">
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Ramesh44888&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/Ramesh44888)
-
-</div>
-
----
 
 ## 💼 What I Do
 
@@ -196,34 +128,7 @@ while (!succeed) {
 ☁️  Cloud Basics      →  AWS Fundamentals, EC2, S3, Deployment
 ```
 
----
 
-## 🎓 Education
-
-<div align="center">
-
-| 🎓 Degree | 🏛️ Institution | 📅 Year | 📊 Score |
-|:---------:|:--------------:|:-------:|:--------:|
-| B.Sc Computer Science | Government Arts and Science College | 2023 | 77% 🎯 |
-| Java Full Stack Development | Training Program | 2024–2025 | Completed ✅ |
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ramesh%20V-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramesh-v-89a9442b4)
-[![Gmail](https://img.shields.io/badge/Gmail-rameshv02003-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rameshv02003@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Ramesh44888-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ramesh44888)
-
-</div>
-
----
-
-<div align="center">
 
 ### 💬 My Motto
 
