@@ -34,15 +34,17 @@
 * 🚀 Actively seeking opportunities to grow as a Software Engineer
 * ⚡ Fun Fact: Coffee ☕ + Clean Code = Productive Day 🚀
 ---
+
 ## 🌱 Currently Learning
 
-☕ Java               → OOP, Collections, Exception Handling
-🌱 Spring Boot        → REST APIs, JPA, Hibernate
-🗄️ MySQL             → Database Design, SQL Queries
-⚛️ React.js          → Components, Hooks, State Management
-🔧 Git & GitHub      → Version Control, Collaboration
-📚 Data Structures   → Arrays, Linked Lists, Searching & Sorting
-
+```text
+☕ Java             → Core Java & OOP Concepts
+🌱 Spring Boot      → REST APIs & Backend Development
+⚛️ React.js         → Frontend Development & Hooks
+🗄️ MySQL           → Database Design & SQL
+🔧 Git & GitHub     → Version Control & Collaboration
+📚 Data Structures  → Problem Solving Fundamentals
+```
 
 ## 💼 What I Do
 
