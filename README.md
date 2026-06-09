@@ -98,37 +98,22 @@
 </div>
 
 ---
-
 ## 📬 Contact Information
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center">
-
-<img src="https://img.shields.io/badge/Email-rameshv02003%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-
-</td>
-<td align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramesh-v-89a9442b4)
-
-</td>
-<td align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Ramesh44888-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ramesh44888)
-
-</td>
-</tr>
-</table>
+| | |
+|:---|:---|
+| 📧 **Email** | [rameshv02003@gmail.com](mailto:rameshv02003@gmail.com) |
+| 💼 **LinkedIn** | [ramesh-v-89a9442b4](https://www.linkedin.com/in/ramesh-v-89a9442b4) |
+| 🐙 **GitHub** | [Ramesh44888](https://github.com/Ramesh44888) |
+| 📍 **Location** | Tamil Nadu, India |
 
 <br/>
 
-[![Resume](https://img.shields.io/badge/📄%20Download%20Resume-Click%20Here-185FA5?style=for-the-badge)](YOUR_RESUME_LINK)
+[![Download Resume](https://img.shields.io/badge/⬇️_Download_Resume-Ramesh_V_Resume.pdf-2496ED?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](YOUR_RESUME_LINK)
 
 </div>
-
 
 ## 🔥 Streak Stats
 
