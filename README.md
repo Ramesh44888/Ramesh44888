@@ -17,14 +17,23 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **B.Sc. Computer Science Graduate (2023)** from Government Arts & Science College — **77%**
-- 💼 Aspiring **Java Full Stack Developer** passionate about building scalable and user-friendly web applications
-- 🔭 Currently working on **Full Stack Projects** using **Java, Spring Boot, React.js, MySQL, and MongoDB**
-- 🌱 Continuously learning **Microservices, Spring Security, Docker, AWS Cloud, and System Design**
-- 🤝 Open to collaborating on **Java Backend**, **Spring Boot**, **React.js**, and **Open Source Projects**
-- 💬 Ask me about **Java, Spring Boot, REST APIs, React.js, MySQL, MongoDB, Git, and Full Stack Development**
-- 🚀 Goal: To become a skilled Software Engineer and contribute to impactful real-world applications
-- ⚡ Fun Fact: I enjoy turning ideas into applications and solving complex problems through clean, efficient code
+### 👋 Hello World, I'm Ramesh V!
+
+🚀 Passionate **Java Full Stack Developer** with a strong foundation in **Java, Spring Boot, React.js, MySQL, and MongoDB**.
+
+🎓 Graduated with a **B.Sc. Computer Science (2023)** from **Government Arts & Science College** with **77%**.
+
+💻 I enjoy building scalable web applications, designing RESTful APIs, and creating responsive user experiences. Currently focused on mastering **Microservices Architecture**, **Spring Security**, **Docker**, and **AWS Cloud Technologies**.
+
+🌱 I believe in continuous learning, clean coding practices, and solving real-world problems through technology.
+
+* 🔭 Working on Full Stack Web Applications
+* 🌱 Learning Microservices, Docker & AWS
+* 💬 Ask me about Java, Spring Boot, React.js & Databases
+* 🤝 Open to Collaboration and Open Source Contributions
+* 🚀 Actively seeking opportunities to grow as a Software Engineer
+* ⚡ Fun Fact: Coffee ☕ + Clean Code = Productive Day 🚀
+
 
 ---
 ## 💼 What I Do
