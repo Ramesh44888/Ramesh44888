@@ -7,7 +7,6 @@
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Ramesh44888&label=Profile%20Views&color=70a5fd&style=flat-square)](https://github.com/Ramesh44888)
-[![GitHub followers](https://img.shields.io/github/followers/Ramesh44888?label=Followers&style=flat-square&color=70a5fd&labelColor=0d1117)](https://github.com/Ramesh44888)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramesh-v-89a9442b4)
 [![Gmail](https://img.shields.io/badge/Gmail-Mail%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rameshv02003@gmail.com)
 
