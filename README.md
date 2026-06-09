@@ -14,18 +14,97 @@
 </div>
 
 ---
-## 🎓 Education
+
+## 🧑‍💻 About Me
 
 <div align="center">
-
-| 🎓 Degree | 🏛️ Institution | 📅 Year | 📊 Score |
-|:---------:|:--------------:|:-------:|:--------:|
-| B.Sc Computer Science | Government Arts and Science College | 2023 | 77% 🎯 |
-| Java Full Stack Development | Training Program | 2024–2025 | Completed ✅ |
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=500&color=39FF14&center=true&vCenter=true&width=600&lines=ramesh%40dev%3A~%24+whoami;%3E+Java+Full+Stack+Developer...;ramesh%40dev%3A~%24+cat+profile.json;%3E+Loading+profile..." alt="terminal typing"/>
 </div>
 
+<br/>
 
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
+
+```bash
+ramesh@dev:~$ whoami
+```
+```
+▶  Java Full Stack Developer | India 🇮🇳
+```
+
+```bash
+ramesh@dev:~$ cat profile.json
+```
+```json
+{
+  "name"       : "Ramesh V",
+  "role"       : "Java Full Stack Developer",
+  "location"   : "India 🇮🇳",
+  "email"      : "rameshv02003@gmail.com",
+  "degree"     : "B.Sc Computer Science",
+  "college"    : "Govt Arts & Science College",
+  "score"      : "77%",
+  "status"     : "Open to Opportunities ✅"
+}
+```
+
+```bash
+ramesh@dev:~$ ./skills.sh --list
+```
+```
+[✔] Java & Spring Boot   →  REST APIs, Backend Services
+[✔] React.js             →  Responsive UIs, SPA
+[✔] MySQL & MongoDB      →  SQL + NoSQL Databases
+[✔] Spring Security      →  JWT, OAuth2, Auth
+[✔] Docker               →  Containers & Deployment
+[✔] Hibernate / JPA      →  ORM & Data Persistence
+```
+
+```bash
+ramesh@dev:~$ cat goal.txt
+```
+```
+>> Build real-world projects
+>> Contribute to impactful software solutions
+>> Become a Great Software Engineer 🚀
+```
+
+</td>
+<td width="40%" valign="top" align="center">
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" alt="Coding"/>
+
+<br/><br/>
+
+```bash
+ramesh@dev:~$ git status
+```
+```
+Currently learning:
+  + Microservices
+  + Spring Security
+  + Docker & AWS
+  + Advanced React
+```
+
+```bash
+ramesh@dev:~$ node funfact.js
+```
+```javascript
+while (!success) {
+  drinkCoffee();  // ☕
+  tryAgain();     // 💪
+}
+// Output: Great Engineer 🚀
+```
+
+</td>
+</tr>
+</table>
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -64,7 +143,6 @@
 
 ---
 
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -100,6 +178,15 @@
 
 ---
 
+## 🏆 Trophy Wall
+
+<div align="center">
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Ramesh44888&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/Ramesh44888)
+
+</div>
+
+---
 
 ## 💼 What I Do
 
@@ -128,7 +215,34 @@
 ☁️  Cloud Basics      →  AWS Fundamentals, EC2, S3, Deployment
 ```
 
+---
 
+## 🎓 Education
+
+<div align="center">
+
+| 🎓 Degree | 🏛️ Institution | 📅 Year | 📊 Score |
+|:---------:|:--------------:|:-------:|:--------:|
+| B.Sc Computer Science | Government Arts and Science College | 2023 | 77% 🎯 |
+| Java Full Stack Development | Training Program | 2024–2025 | Completed ✅ |
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ramesh%20V-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramesh-v-89a9442b4)
+[![Gmail](https://img.shields.io/badge/Gmail-rameshv02003-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rameshv02003@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Ramesh44888-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ramesh44888)
+
+</div>
+
+---
+
+<div align="center">
 
 ### 💬 My Motto
 
