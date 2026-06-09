@@ -101,16 +101,33 @@
 
 ## 📬 Contact Information
 
-📧 **Email:** [rameshv02003@gmail.com](mailto:rameshv02003@gmail.com)
+<div align="center">
 
-💼 **LinkedIn:** https://www.linkedin.com/in/ramesh-v-89a9442b4
+<table>
+<tr>
+<td align="center">
 
-🐙 **GitHub:** https://github.com/Ramesh44888
+<img src="https://img.shields.io/badge/Email-rameshv02003%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 
-📄 **Resume:** [View Resume](YOUR_RESUME_LINK)
+</td>
+<td align="center">
 
-📍 **Location:** Tamil Nadu, India
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramesh-v-89a9442b4)
+
+</td>
+<td align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Ramesh44888-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ramesh44888)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+[![Resume](https://img.shields.io/badge/📄%20Download%20Resume-Click%20Here-185FA5?style=for-the-badge)](YOUR_RESUME_LINK)
+
+</div>
 
 
 ## 🔥 Streak Stats
