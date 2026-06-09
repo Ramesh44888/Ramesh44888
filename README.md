@@ -59,19 +59,6 @@
 ---
 
 
-
-### 🌐 Socials
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramesh-v-89a9442b4)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rameshv02003@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ramesh44888)
-
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -109,6 +96,18 @@
 
 ---
 
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ramesh%20V-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramesh-v-89a9442b4)
+[![Gmail](https://img.shields.io/badge/Gmail-rameshv02003-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rameshv02003@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Ramesh44888-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ramesh44888)
+
+</div>
+
+---
+
 
 ## 🔥 Streak Stats
 
@@ -131,17 +130,6 @@
 ---
 
 
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ramesh%20V-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramesh-v-89a9442b4)
-[![Gmail](https://img.shields.io/badge/Gmail-rameshv02003-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rameshv02003@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Ramesh44888-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ramesh44888)
-
-</div>
-
----
 
 <div align="center">
 
