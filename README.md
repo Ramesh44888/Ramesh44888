@@ -33,17 +33,6 @@
 * 🤝 Open to Collaboration and Open Source Contributions
 * 🚀 Actively seeking opportunities to grow as a Software Engineer
 * ⚡ Fun Fact: Coffee ☕ + Clean Code = Productive Day 🚀
-
-## 🎓 Education
-
-| Qualification          | Institution                        | Year | Score          |
-| ---------------------- | ---------------------------------- | ---- | -------------- |
-| B.Sc. Computer Science | Government Arts & Science College  | 2023 | 77%            |
-| HSC (12th)             | Government Higher Secondary School | 2020 | Add Your Score |
-| SSLC (10th)            | Government Higher Secondary School | 2018 | Add Your Score |
-
-
-
 ---
 ## 💼 What I Do
 
