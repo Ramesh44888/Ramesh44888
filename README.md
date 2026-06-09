@@ -107,9 +107,9 @@
 
 🐙 **GitHub:** https://github.com/Ramesh44888
 
+📄 **Resume:** [View Resume](YOUR_RESUME_LINK)
+
 📍 **Location:** Tamil Nadu, India
-
-
 ---
 
 
