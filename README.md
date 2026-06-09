@@ -15,49 +15,28 @@
 
 ---
 
+## 👨‍💻 About Me:
 
-## 🧑‍💻 About Me
+- 🔭 I'm currently working on **Full Stack Web Applications** using **Spring Boot + React.js** with REST APIs and database integration
+- 🤝 I'm looking to collaborate on **Java backend projects**, **full-stack web apps**, or any **open-source Spring Boot / React projects**
+- 🆘 I'm looking for help with **Microservices architecture**, **Spring Security**, and **advanced React state management**
+- 🌱 I'm currently learning **Microservices**, **Docker**, **Spring Security with JWT**, and **Cloud deployment on AWS**
+- 💬 Ask me about **Java**, **Spring Boot**, **REST APIs**, **React.js**, **MySQL**, **MongoDB**, or **full-stack development tips**
+- ⚡ Fun fact: I believe clean code + strong coffee can solve almost any bug! ☕ 🐛
 
-```bash
-ramesh@developer:~$ whoami
-```
+---
 
-```yaml
-Name        : Ramesh V
-Role        : Java Full Stack Developer
-Location    : India 🇮🇳
-Education   : B.Sc Computer Science (2023)
-Status      : Open to Work 🚀
-```
+### 🌐 Socials:
 
-### 🚀 Professional Summary
+<div align="center">
 
-Passionate Java Full Stack Developer with a strong foundation in Java, Spring Boot, React.js, MySQL, and MongoDB. I enjoy building scalable web applications, developing secure REST APIs, and creating responsive user experiences.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramesh-v-89a9442b4)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rameshv02003@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ramesh44888)
 
-I am continuously improving my skills through hands-on projects and learning modern software development practices such as Microservices, Docker, Spring Security, and Cloud Technologies.
+</div>
 
-### 💡 What I Bring
-
-* 🔹 Backend Development using Java, Spring Boot & Hibernate
-* 🔹 REST API Design & Integration
-* 🔹 Frontend Development with React.js
-* 🔹 Database Design using MySQL & MongoDB
-* 🔹 Authentication & Authorization with JWT
-* 🔹 Version Control using Git & GitHub
-* 🔹 Problem Solving and Clean Code Practices
-
-### 🎯 Career Goal
-
-To become a skilled Software Engineer by building impactful applications, contributing to real-world projects, and continuously learning emerging technologies.
-
-```bash
-ramesh@developer:~$ echo $MOTTO
-```
-
-```text
-"Learn. Build. Improve. Repeat."
-```
-
+---
 
 ## 🛠️ Tech Stack
 
