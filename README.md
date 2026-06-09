@@ -23,88 +23,49 @@
 
 <br/>
 
-<table width="100%">
-<tr>
-<td width="60%" valign="top">
+
+## 🧑‍💻 About Me
 
 ```bash
-ramesh@dev:~$ whoami
+ramesh@developer:~$ whoami
 ```
+
+```yaml
+Name        : Ramesh V
+Role        : Java Full Stack Developer
+Location    : India 🇮🇳
+Education   : B.Sc Computer Science (2023)
+Status      : Open to Work 🚀
 ```
-▶  Java Full Stack Developer | India 🇮🇳
-```
+
+### 🚀 Professional Summary
+
+Passionate Java Full Stack Developer with a strong foundation in Java, Spring Boot, React.js, MySQL, and MongoDB. I enjoy building scalable web applications, developing secure REST APIs, and creating responsive user experiences.
+
+I am continuously improving my skills through hands-on projects and learning modern software development practices such as Microservices, Docker, Spring Security, and Cloud Technologies.
+
+### 💡 What I Bring
+
+* 🔹 Backend Development using Java, Spring Boot & Hibernate
+* 🔹 REST API Design & Integration
+* 🔹 Frontend Development with React.js
+* 🔹 Database Design using MySQL & MongoDB
+* 🔹 Authentication & Authorization with JWT
+* 🔹 Version Control using Git & GitHub
+* 🔹 Problem Solving and Clean Code Practices
+
+### 🎯 Career Goal
+
+To become a skilled Software Engineer by building impactful applications, contributing to real-world projects, and continuously learning emerging technologies.
 
 ```bash
-ramesh@dev:~$ cat profile.json
-```
-```json
-{
-  "name"       : "Ramesh V",
-  "role"       : "Java Full Stack Developer",
-  "location"   : "India 🇮🇳",
-  "email"      : "rameshv02003@gmail.com",
-  "degree"     : "B.Sc Computer Science",
-  "college"    : "Govt Arts & Science College",
-  "score"      : "77%",
-  "status"     : "Open to Opportunities ✅"
-}
+ramesh@developer:~$ echo $MOTTO
 ```
 
-```bash
-ramesh@dev:~$ ./skills.sh --list
-```
-```
-[✔] Java & Spring Boot   →  REST APIs, Backend Services
-[✔] React.js             →  Responsive UIs, SPA
-[✔] MySQL & MongoDB      →  SQL + NoSQL Databases
-[✔] Spring Security      →  JWT, OAuth2, Auth
-[✔] Docker               →  Containers & Deployment
-[✔] Hibernate / JPA      →  ORM & Data Persistence
+```text
+"Learn. Build. Improve. Repeat."
 ```
 
-```bash
-ramesh@dev:~$ cat goal.txt
-```
-```
->> Build real-world projects
->> Contribute to impactful software solutions
->> Become a Great Software Engineer 🚀
-```
-
-</td>
-<td width="40%" valign="top" align="center">
-
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" alt="Coding"/>
-
-<br/><br/>
-
-```bash
-ramesh@dev:~$ git status
-```
-```
-Currently learning:
-  + Microservices
-  + Spring Security
-  + Docker & AWS
-  + Advanced React
-```
-
-```bash
-ramesh@dev:~$ node funfact.js
-```
-```javascript
-while (!success) {
-  drinkCoffee();  // ☕
-  tryAgain();     // 💪
-}
-// Output: Great Engineer 🚀
-```
-
-</td>
-</tr>
-</table>
-
----
 
 ## 🛠️ Tech Stack
 
