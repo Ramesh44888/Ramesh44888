@@ -22,7 +22,11 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramesh-v-89a9442b4)
-[![Gmail](https://img.shields.io/badge/Gmai## 
+[![Gmail](https://img.shields.io/badge/Gmai##l-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rameshv02003@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ramesh44888)
+
+</div>
+
 
 ---
 
@@ -66,14 +70,6 @@
 | ☁️ Cloud Deployment        | Deploy applications on AWS cloud services                     |
 
 ```
-```
-l-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rameshv02003@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ramesh44888)
-
-</div>
-
----
-
 
 ## 🛠️ Tech Stack
 
