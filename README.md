@@ -25,6 +25,33 @@
 - ⚡ Fun fact: I believe clean code + strong coffee can solve almost any bug! ☕ 🐛
 
 ---
+## 🌱 Currently Learning
+
+```
+🧱 Microservices     →  Service Discovery, API Gateway, Load Balancing
+🔐 Spring Security   →  JWT, OAuth2, Role-Based Access Control
+🐳 Docker            →  Containers, Docker Compose, Networking
+⚛️  Advanced React    →  Hooks, Context API, Redux, Performance
+☁️  Cloud Basics      →  AWS Fundamentals, EC2, S3, Deployment
+```
+
+## 💼 What I Do
+
+<div align="center">
+
+| Icon | Capability |
+|:----:|-----------|
+| 🖥️ | Build Full Stack Web Applications with Spring Boot + React |
+| 🔌 | Develop RESTful APIs & Microservices |
+| 🎨 | Design Responsive UIs with React.js & CSS |
+| 🗄️ | Work with SQL (MySQL) & NoSQL (MongoDB) Databases |
+| 🔒 | Implement Secure Auth using Spring Security & JWT |
+| 🐳 | Containerize Applications using Docker |
+
+</div>
+
+---
+
 
 ### 🌐 Socials:
 
@@ -37,6 +64,7 @@
 </div>
 
 ---
+
 
 ## 🛠️ Tech Stack
 
@@ -75,20 +103,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/Ramesh44888">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ramesh44888&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-</a>
-<a href="https://github.com/Ramesh44888">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramesh44888&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-</a>
-
-</div>
-
----
 
 ## 🔥 Streak Stats
 
@@ -110,57 +124,7 @@
 
 ---
 
-## 🏆 Trophy Wall
 
-<div align="center">
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Ramesh44888&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/Ramesh44888)
-
-</div>
-
----
-
-## 💼 What I Do
-
-<div align="center">
-
-| Icon | Capability |
-|:----:|-----------|
-| 🖥️ | Build Full Stack Web Applications with Spring Boot + React |
-| 🔌 | Develop RESTful APIs & Microservices |
-| 🎨 | Design Responsive UIs with React.js & CSS |
-| 🗄️ | Work with SQL (MySQL) & NoSQL (MongoDB) Databases |
-| 🔒 | Implement Secure Auth using Spring Security & JWT |
-| 🐳 | Containerize Applications using Docker |
-
-</div>
-
----
-
-## 🌱 Currently Learning
-
-```
-🧱 Microservices     →  Service Discovery, API Gateway, Load Balancing
-🔐 Spring Security   →  JWT, OAuth2, Role-Based Access Control
-🐳 Docker            →  Containers, Docker Compose, Networking
-⚛️  Advanced React    →  Hooks, Context API, Redux, Performance
-☁️  Cloud Basics      →  AWS Fundamentals, EC2, S3, Deployment
-```
-
----
-
-## 🎓 Education
-
-<div align="center">
-
-| 🎓 Degree | 🏛️ Institution | 📅 Year | 📊 Score |
-|:---------:|:--------------:|:-------:|:--------:|
-| B.Sc Computer Science | Government Arts and Science College | 2023 | 77% 🎯 |
-| Java Full Stack Development | Training Program | 2024–2025 | Completed ✅ |
-
-</div>
-
----
 
 ## 🤝 Connect With Me
 
