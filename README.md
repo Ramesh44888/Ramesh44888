@@ -15,61 +15,62 @@
 
 ---
 
+## 👨‍💻 About Me
 
+- 🎓 **B.Sc. Computer Science Graduate (2023)** from Government Arts & Science College — **77%**
+- 💼 Aspiring **Java Full Stack Developer** passionate about building scalable and user-friendly web applications
+- 🔭 Currently working on **Full Stack Projects** using **Java, Spring Boot, React.js, MySQL, and MongoDB**
+- 🌱 Continuously learning **Microservices, Spring Security, Docker, AWS Cloud, and System Design**
+- 🤝 Open to collaborating on **Java Backend**, **Spring Boot**, **React.js**, and **Open Source Projects**
+- 💬 Ask me about **Java, Spring Boot, REST APIs, React.js, MySQL, MongoDB, Git, and Full Stack Development**
+- 🚀 Goal: To become a skilled Software Engineer and contribute to impactful real-world applications
+- ⚡ Fun Fact: I enjoy turning ideas into applications and solving complex problems through clean, efficient code
 
-### 🌐 Socials:
+---
+## 💼 What I Do
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramesh-v-89a9442b4)
-[![Gmail](https://img.shields.io/badge/Gmai##l-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rameshv02003@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ramesh44888)
+| 🚀 Expertise | Description |
+|:---|:---|
+| 🖥️ Full Stack Development | Build end-to-end web applications using Spring Boot & React |
+| 🔌 Backend Development | Create REST APIs and business logic with Java & Spring Boot |
+| 🎨 Frontend Development | Develop responsive and interactive UIs with React.js |
+| 🗄️ Database Management | Work with MySQL and MongoDB databases |
+| 🔒 Application Security | Implement JWT-based authentication and authorization |
+| 🐳 DevOps Basics | Containerize applications using Docker |
+| ☁️ Cloud Deployment | Deploy applications on AWS cloud services |
 
 </div>
-
-
----
-
-
-👨‍💻 About Me
-
-* 🎓 **B.Sc. Computer Science Graduate (2023)** from Government Arts & Science College
-* 💼 Aspiring **Java Full Stack Developer** passionate about building scalable and user-friendly web applications
-* 🔭 Currently working on **Full Stack Projects** using **Java, Spring Boot, React.js, MySQL, and MongoDB**
-* 🌱 Continuously learning **Microservices, Spring Security, Docker, AWS Cloud, and System Design**
-* 🤝 Open to collaborating on **Java Backend**, **Spring Boot**, **React.js**, and **Open Source Projects**
-* 💬 Ask me about **Java, Spring Boot, REST APIs, React.js, MySQL, MongoDB, Git, and Full Stack Development**
-* 🚀 Goal: To become a skilled Software Engineer and contribute to impactful real-world applications
-* ⚡ Fun Fact: I enjoy turning ideas into applications and solving complex problems through clean, efficient code
 
 ---
 
 ## 🌱 Currently Learning
 
 ```text
-🧱 Microservices      → Service Discovery, API Gateway, Load Balancing
-🔐 Spring Security    → JWT Authentication, OAuth2, RBAC
-🐳 Docker             → Containers, Docker Compose, Deployment
-⚛️ Advanced React     → Hooks, Context API, Redux Toolkit
-☁️ AWS Cloud          → EC2, S3, IAM, Application Deployment
-📐 System Design      → Scalable Architecture & Best Practices
+🧱 Microservices      →  Service Discovery, API Gateway, Load Balancing
+🔐 Spring Security    →  JWT Authentication, OAuth2, RBAC
+🐳 Docker             →  Containers, Docker Compose, Deployment
+⚛️  Advanced React     →  Hooks, Context API, Redux Toolkit
+☁️  AWS Cloud          →  EC2, S3, IAM, Application Deployment
+📐 System Design      →  Scalable Architecture & Best Practices
 ```
 
 ---
 
-## 💼 What I Do
 
-| 🚀 Expertise               | Description                                                   |
-| -------------------------- | ------------------------------------------------------------- |
-| 🖥️ Full Stack Development | Build end-to-end web applications using Spring Boot & React   |
-| 🔌 Backend Development     | Create REST APIs and business logic with Java & Spring Boot   |
-| 🎨 Frontend Development    | Develop responsive and interactive user interfaces with React |
-| 🗄️ Database Management    | Work with MySQL and MongoDB databases                         |
-| 🔒 Application Security    | Implement JWT-based authentication and authorization          |
-| 🐳 DevOps Basics           | Containerize applications using Docker                        |
-| ☁️ Cloud Deployment        | Deploy applications on AWS cloud services                     |
 
-```
+### 🌐 Socials
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramesh-v-89a9442b4)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rameshv02003@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ramesh44888)
+
+</div>
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -128,7 +129,6 @@
 </div>
 
 ---
-
 
 
 ## 🤝 Connect With Me
