@@ -101,16 +101,32 @@
 
 <div align="center">
 
-| | |
-|:---|:---|
-| 📧 **Email** | [rameshv02003@gmail.com](mailto:rameshv02003@gmail.com) |
-| 💼 **LinkedIn** | [ramesh-v-89a9442b4](https://www.linkedin.com/in/ramesh-v-89a9442b4) |
-| 🐙 **GitHub** | [Ramesh44888](https://github.com/Ramesh44888) |
-| 📍 **Location** | Tamil Nadu, India |
+<table>
+<tr>
+<td>📧 <b>Email</b></td>
+<td><a href="mailto:rameshv02003@gmail.com">rameshv02003@gmail.com</a></td>
+</tr>
+<tr>
+<td>💼 <b>LinkedIn</b></td>
+<td><a href="https://www.linkedin.com/in/ramesh-v-89a9442b4">ramesh-v-89a9442b4</a></td>
+</tr>
+<tr>
+<td>🐙 <b>GitHub</b></td>
+<td><a href="https://github.com/Ramesh44888">Ramesh44888</a></td>
+</tr>
+<tr>
+<td>📱 <b>Phone</b></td>
+<td>+91 6374309489</td>
+</tr>
+<tr>
+<td>📍 <b>Location</b></td>
+<td>Tamil Nadu, India</td>
+</tr>
+</table>
 
 <br/>
 
-[![Download Resume](https://img.shields.io/badge/⬇️_Download_Resume-Ramesh_V_Resume.pdf-2496ED?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](YOUR_RESUME_LINK)
+[![Download Resume](https://img.shields.io/badge/⬇️_Download_Resume-Ramesh_V_Resume.pdf-185FA5?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/Ramesh44888/resume/main/ramesh%20resume.pdf)
 
 </div>
 
