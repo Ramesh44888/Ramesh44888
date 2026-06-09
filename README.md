@@ -34,6 +34,15 @@
 * 🚀 Actively seeking opportunities to grow as a Software Engineer
 * ⚡ Fun Fact: Coffee ☕ + Clean Code = Productive Day 🚀
 
+## 🎓 Education
+
+| Qualification          | Institution                        | Year | Score          |
+| ---------------------- | ---------------------------------- | ---- | -------------- |
+| B.Sc. Computer Science | Government Arts & Science College  | 2023 | 77%            |
+| HSC (12th)             | Government Higher Secondary School | 2020 | Add Your Score |
+| SSLC (10th)            | Government Higher Secondary School | 2018 | Add Your Score |
+
+
 
 ---
 ## 💼 What I Do
@@ -57,15 +66,15 @@
 ## 🌱 Currently Learning
 
 ```text
-🧱 Microservices      →  Service Discovery, API Gateway, Load Balancing
-🔐 Spring Security    →  JWT Authentication, OAuth2, RBAC
-🐳 Docker             →  Containers, Docker Compose, Deployment
-⚛️  Advanced React     →  Hooks, Context API, Redux Toolkit
-☁️  AWS Cloud          →  EC2, S3, IAM, Application Deployment
-📐 System Design      →  Scalable Architecture & Best Practices
+☕ Java               → OOP, Collections, Exception Handling
+🌱 Spring Boot        → REST APIs, JPA, Hibernate
+🗄️ MySQL             → Database Design, SQL Queries
+⚛️ React.js          → Components, Hooks, State Management
+🔧 Git & GitHub      → Version Control, Collaboration
+📚 Data Structures   → Arrays, Linked Lists, Searching & Sorting
 ```
 
----
+
 
 
 ## 🛠️ Tech Stack
